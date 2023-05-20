@@ -3,10 +3,6 @@ var generateBtn = document.querySelector("#generate");
 
 
 
-//---- Let me start by saying this code is totally optional and if you want to go in a completely different direction I support it. Go with your gut and what works for you because it will help you figure out your thought process.Let us know if you have any questions and don't be afraid to start a dialogue with fellow students!  ----------------------- Delete this before you push your code to github LOL 
-
-
-
 
 function getPasswordOptions() {
 
