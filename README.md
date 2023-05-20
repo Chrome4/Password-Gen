@@ -8,7 +8,7 @@ This is the password generator challenge for week 3 of the bootcamp.
 3. I did use the starter code provided by my instructor
 
 ## Screenshot
-![Deployed application of password-gen](Password-gen/Screenshot.PNG "Application")
+![](/Password-Gen/Screenshot.PNG "Application")
 
 ## Link
 https://chrome4.github.io/Password-Gen/
